@@ -14,7 +14,12 @@ namespace PierreBakery
       FindFinalPrice();
       static void FindFinalPrice()
       {
-        
+        Console.WriteLine("Enter how many bread do you want");
+        string userInputBread = Console.ReadLine();
+        int inputBread = int.Parse(userInputBread);
+        Bread breadTotal = new Bread(inputBread);
+        Console.WriteLine(breadTotal);
+
         {
           FindFinalPrice();
         }
