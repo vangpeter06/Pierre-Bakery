@@ -19,13 +19,13 @@ namespace PierreBakery.Models
       {  
         return 5;
       }
-       else if (Quantity > 3)
+       else if (Quantity == 6)
+      {
+        return 10; 
+      }  
+      else if (Quantity > 3)
       {
         return Quantity * 2 -1;
-      }
-      else if (Quantity == 6)
-      {
-        return 10;
       }
       else 
       {
