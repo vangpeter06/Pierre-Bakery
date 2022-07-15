@@ -1,8 +1,8 @@
-# _{Pierre Bakery}_
+# _Pierre Bakery_
 
-#### By _**{Peter Vang}**_
+#### By _**Peter Vang**_
 
-#### _{A simple C# of learning Test Driven Development}_
+#### _A simple C# of learning Test Driven Development_
 
 ## Technologies Used
 
@@ -12,9 +12,9 @@
 
 ## Description
 
-_{This is a C# console where it lets user enter numbers of loaves bread and pastry they want. Pierre Bakery also has a special deal that will be included when the quantity are meant. The total of cost will be present when all inputs are enter. 
+_This is a C# console where it lets user enter numbers of loaves bread and pastry they want. Pierre Bakery also has a special deal that will be included when the quantity are meant. The total of cost will be present when all inputs are enter. 
 Specs: When one loaves bread is enter it cost is $5, two is $10 and when it receives two it get one for free. It should return having three loaves of bread when two is enter. 
-When input for pastry 1 is $2 or 3 for $5, 4 for $7, 5 for $9 and 6 for $10. }_
+When input for pastry 1 is $2 or 3 for $5, 4 for $7, 5 for $9 and 6 for $10._
 
 ## Setup/Installation Requirements
 
@@ -35,7 +35,7 @@ When input for pastry 1 is $2 or 3 for $5, 4 for $7, 5 for $9 and 6 for $10. }_
 
 ## License
 
-_{If you run into any issues or have questions, ideas or concerns please contact me or make a contribution to the code.}_
+_If you run into any issues or have questions, ideas or concerns please contact me or make a contribution to the code._
 
 Copyright (c) _7/15/2022_ _Peter Vang_
 
@@ -43,4 +43,4 @@ Licensed under the MIT license
 
 ## Contact
 
-*_vang_peter06@yahoo.com_
+_vang_peter06@yahoo.com_
