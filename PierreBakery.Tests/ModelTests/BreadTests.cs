@@ -25,8 +25,17 @@ namespace PierreBakery.Tests
       int result = Bread.BreadOrder(numBreadOrder);
 
       Assert.AreEqual(orderAmount,result);
+    }
 
+    [TestMethod]
+    public void BreadOrder_BuyTwoGetOneFree_Ten()
+    {
+      int numBreadOrder = 2;
+      int breadReceive = 3;
 
+      int result = Bread.SpecialDeal(numBreadOrder);
+
+      Assert.AreEqual(breadReceive, result);
     }
   }
 }
