@@ -23,10 +23,10 @@ When input for pastry 1 is $2 or 3 for $5, 4 for $7, 5 for $9 and 6 for $10._
 * _Clone this project with the following commands $ git clone https://github.com/vangpeter06/Pierre-Bakery_
 * _Navigate to the test level on your terminal $ cd PierreBakery.Tests_
 * _Restore and install packages listed in the csproj it the command $ dotnet restore_
-*_To test run the application with the command $ dotnet test_
-*_Navigate to PierreBakery to build your dependencies in command return to your root directory $ cd .. then $ cd PierreBakery_
-*_Build your dependencies in your command $ dotnet build_
-*_Next we will execute this complied code in command $ dotnet run_
+* _To test run the application with the command $ dotnet test_
+* _Navigate to PierreBakery to build your dependencies in command return to your root directory $ cd .. then $ cd PierreBakery_
+* _Build your dependencies in your command $ dotnet build_
+* _Next we will execute this complied code in command $ dotnet run_
 
 ## Known Bugs
 
